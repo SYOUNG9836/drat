@@ -11,5 +11,5 @@ Package: kadmin
 Version: 1.0.0
 Depends: R (>= 3.6)
 License: GPL-3
-MD5sum: a7834ab01d1995763d172857472ff911
+MD5sum: bdae186dbc050a792de5dc6fc10bdac6
 NeedsCompilation: no
