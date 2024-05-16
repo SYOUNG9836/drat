@@ -6,3 +6,10 @@ Suggests: git2r, knitr, rmarkdown
 License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
+
+Package: kadmin
+Version: 1.0.0
+Depends: R (>= 3.6)
+License: GPL-3
+MD5sum: a7834ab01d1995763d172857472ff911
+NeedsCompilation: no
